@@ -164,6 +164,8 @@
       - name: Authorize external services
         href: develop/auth-external-add-ins.md
 
+    - name: Develop add-ins with TypeScript or JavaScript
+      href: develop/develop-with-typescript-or-javascript.md
     - name: Use the Dialog API
       href: develop/dialog-api-in-office-add-ins.md
     - name: Address same origin policy limitations

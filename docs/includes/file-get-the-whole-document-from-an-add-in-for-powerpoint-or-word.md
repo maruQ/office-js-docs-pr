@@ -106,7 +106,7 @@ Use the following procedure to create a simple user interface for the add-in tha
     {
         text-decoration-color:#4ec724;
     }
-    input [type="submit"], input[type="button"] 
+    input[type="submit"], input[type="button"] 
     { 
         height:24px; 
         padding-left:1em; 
